@@ -15,7 +15,9 @@
 body {
     background: #0d1117;
     color: #c9d1d9;
-    font-family: "JB", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", monospace;
+        font-family: "JB", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono",
+                 "PingFang SC", "Microsoft YaHei", "Noto Sans SC",
+                 "Source Han Sans SC", "WenQuanYi Micro Hei", monospace;
     line-height: 1.6;
     padding: 2rem 2rem 80px 2rem;
     position: relative;

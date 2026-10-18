@@ -48,7 +48,7 @@
 | 软件 | 直链 |
 |------|------|
 | [PotPlayer](https://potplayer.tv/) | [Latest](https://t1.kakaocdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) |
-| [VLC](https://www.videolan.org/vlc/) | [3.0.24](https://get.videolan.org/vlc/3.0.24/win64/vlc-3.0.24-win64.exe) |
+| [VLC](https://www.videolan.org/vlc/) | [3.0.24](https://mirrors.ustc.edu.cn/videolan-ftp/vlc/3.0.24/win64/vlc-3.0.24-win64.exe) |
 
 ## 系统工具
 | 软件 | 直链 |

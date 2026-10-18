@@ -8,6 +8,7 @@
   - [媒体播放](#媒体播放)
   - [系统工具](#系统工具)
   - [杀毒软件](#杀毒软件)
+  - [系统驱动](#系统驱动)
 
 ---
 
@@ -58,3 +59,16 @@
 | 软件 | 直链 |
 |------|------|
 | [火绒安全](https://www.huorong.cn/) | [6.0](https://www.huorong.cn/product/downloadHr60.php?pro=hr60) |
+| [360急救箱](http://www.360.cn/firstaid/index.html) | [5.1.64.1164-1213](http://down.360safe.com/360compkill5.1.64.1164-1213.zip) |
+
+
+## 系统驱动
+| AMD驱动 | 直链 |
+|------|------|
+|[AMD显卡芯片组的驱动程序更新](https://www.amd.com/zh-cn/support/download/drivers.html)|[26.8.1](https://drivers.amd.com/drivers/installer/26.10/whql/amd-software-adrenalin-edition-26.8.1-minimalsetup-260818_web.exe)|
+
+| N卡驱动(推荐在右侧自行选择版本下载，该表列出的为我认为稳定的版本) | [点击这里这里自行选择版本下载](https://www.nvidia.cn/Drivers/) |
+|------|------|
+|RTX 50 系列 **581.08**|[笔记本](https://cn.download.nvidia.com/Windows/581.08/581.08-notebook-win10-win11-64bit-international-dch-whql.exe) [台式](https://cn.download.nvidia.com/Windows/581.08/581.08-desktop-win10-win11-64bit-international-dch-whql.exe)|
+|RTX 40 / 30 / 20 / 16 系列 **566.36-WHQL**|[笔记本](https://cn.download.nvidia.com/Windows/566.36/566.36-notebook-win10-win11-64bit-international-dch-whql.exe) [台式](https://cn.download.nvidia.com/Windows/566.36/566.36-desktop-win10-win11-64bit-international-dch-whql.exe)|
+|GTX 10 / 900  **582.78-Security Update Driver**|[笔记本](https://us.download.nvidia.com/Windows/582.78/582.78-notebook-win10-win11-64bit-international-dch-whql.exe) [台式](https://us.download.nvidia.com/Windows/582.78/582.78-desktop-win10-win11-64bit-international-dch-whql.exe)|
